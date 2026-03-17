@@ -1,5 +1,8 @@
 
 [
+  { "isim": "FB-ANTEP RU 9000Kbps", "hash": "b6baa046075d82da300fc1b16de96067a8b9540e" },
+  { "isim": "FB-ANTEP RU 1500Kbps", "hash": "851bf52bbd697d48b6c753671692df6ef39f80ab" },
+  { "isim": "FB-ANTEP USA 1500Kbps", "hash": "a9dc8090dc2fcb2001214caba39358cc8bd0b437" },
   { "isim": "BEIN SPORTS 1", "hash": "118416583faa3fb4f03800173429b6b844b43a52" },
   { "isim": "BEIN SPORTS 2", "hash": "48bee10b883f17c7186d60f1e8022dca0ba41a05" },
   { "isim": "BEIN SPORTS 3", "hash": "ed81c333815247536edfcdb2755147e8c4144d62" },
