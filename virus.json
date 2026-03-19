@@ -1,7 +1,7 @@
 
 [
-  { "isim": "BJK-KSP 5000Kbps", "hash": "acestream://118416583faa3fb4f03800173429b6b844b43a52" },
-  { "isim": "BJK-KSP 1500Kbps", "hash": "acestream://907068eb2d7eaea43f07bb5359f740853edd146c" },
+  { "isim": "BJK-KSP 5000Kbps", "hash": "118416583faa3fb4f03800173429b6b844b43a52" },
+  { "isim": "BJK-KSP 1500Kbps", "hash": "907068eb2d7eaea43f07bb5359f740853edd146c" },
   { "isim": "BEIN SPORTS 1", "hash": "118416583faa3fb4f03800173429b6b844b43a52" },
   { "isim": "BEIN SPORTS 2", "hash": "48bee10b883f17c7186d60f1e8022dca0ba41a05" },
   { "isim": "BEIN SPORTS 3", "hash": "ed81c333815247536edfcdb2755147e8c4144d62" },
